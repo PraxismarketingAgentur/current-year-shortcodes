@@ -1,9 +1,9 @@
 === Current Year Shortcodes ===
 Contributors: praxismarketing
 Tags: shortcode, year, current, month, day, date, time
-Requires at least: 4.0
-Tested up to: 6.2.2
-Stable tag: 0.2
+Requires at least: 4.6
+Tested up to: 6.4.2
+Stable tag: 0.3
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -30,6 +30,10 @@ Use the shortcode **[Y]** in any post, page or widget to display the current yea
 
 
 == Changelog ==
+
+= 0.3 =
+
+* Added translations for months and days
 
 = 0.2 =
 
